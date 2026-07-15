@@ -1,0 +1,10 @@
+# 忽略 VS 产生的所有工程、配置和临时文件
+.vs/
+Debug/
+Release/
+x64/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.exe
