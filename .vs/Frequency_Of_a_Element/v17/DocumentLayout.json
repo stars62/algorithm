@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\algorithm\\Frequency_Of_a_Element\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23047B12-28B0-4440-9196-3AAE431BB8FE}|Frequency_Of_a_Element.vcxproj|D:\\algorithm\\Frequency_Of_a_Element\\Frequency_Of_A_Element.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23047B12-28B0-4440-9196-3AAE431BB8FE}|Frequency_Of_a_Element.vcxproj|solutionrelative:Frequency_Of_A_Element.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frequency_Of_A_Element.cpp",
+              "DocumentMoniker": "D:\\algorithm\\Frequency_Of_a_Element\\Frequency_Of_A_Element.cpp",
+              "RelativeDocumentMoniker": "Frequency_Of_A_Element.cpp",
+              "ToolTip": "D:\\algorithm\\Frequency_Of_a_Element\\Frequency_Of_A_Element.cpp",
+              "RelativeToolTip": "Frequency_Of_A_Element.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-15T10:08:22.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
